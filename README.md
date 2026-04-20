@@ -22,3 +22,17 @@ Solución: usar Elastic IP (pendiente de implementar).
 ## 🔒 Mejora implementada
 Se configuró una Elastic IP en AWS para mantener una dirección IP fija, evitando cambios al reiniciar la instancia.
 
+## 🌐 Resultado
+
+Servidor web desplegado exitosamente en AWS EC2.
+
+Acceso público:
+http://3.129.173.61
+
+## 🧠 Aprendizajes
+
+- Implementación de servidores en AWS EC2  
+- Configuración de Nginx en Linux  
+- Gestión de IPs públicas dinámicas  
+- Uso de Elastic IP para infraestructura estable  
+
