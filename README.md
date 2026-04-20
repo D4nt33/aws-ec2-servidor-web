@@ -20,6 +20,5 @@ Solución: usar Elastic IP (pendiente de implementar).
 <img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/8a85adcb-8d3c-4ad5-94ea-24cadeba84dd" />
 
 ## 🔒 Mejora implementada
-
 Se configuró una Elastic IP en AWS para mantener una dirección IP fija, evitando cambios al reiniciar la instancia.
 
